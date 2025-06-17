@@ -14,6 +14,16 @@
   
 - ⚡ Fun fact: I like basketball.
 
+
+  <hr>      
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+</p>
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -25,9 +35,3 @@
 
 
 
-
-
-
-
-
-mg alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img
