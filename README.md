@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaroslav Sanabria</h1> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<h1 align="center">Hi 👋, I'm Yaroslav Sanabria</h1>
 
 <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me: </h2>
 
@@ -16,7 +16,7 @@
 
 
   <hr>      
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-sanabria-yaro-3204b01bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonathan-sanabria-yaro-3204b01bb" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@hermanosps443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan_sanabria" height="30" width="40" /></a>
