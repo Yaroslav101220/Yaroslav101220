@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaroslav Sanabria</h1>
+<h1 align="center">Hi 👋, I'm Yaroslav Sanabria</h1> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me: </h2>
 
