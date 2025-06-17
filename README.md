@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaroslav Sanabria</h1>
 
-<h2> 💫 About Me: </h2>
+<h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
