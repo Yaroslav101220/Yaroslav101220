@@ -6,7 +6,7 @@
 
 - 🔭 I currently work in web development and I am an engineer in information technology.
   
-- 🌱 I’m currently learning Python and React Native. 
+- 🌱 I’m currently learning TypeScript and React Native. 
   
 - 🤝🏼 I’m looking to collaborate on Proyectos.
   
