@@ -4,7 +4,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I currently work in web development and I am an engineer in information technology.
+- 🔭 I am an engineer in information technology and I currently work in web development.
   
 - 🌱 I’m currently learning TypeScript and React Native. 
   
