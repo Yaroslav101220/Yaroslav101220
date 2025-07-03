@@ -14,7 +14,7 @@
   
 - ⚡ Fun fact: I like basketball.
 
-- ⚡ My website: https://mi-portafolio-yaro.vercel.app
+- 🌐 My website: https://mi-portafolio-yaro.vercel.app
 
 
   <hr>      
