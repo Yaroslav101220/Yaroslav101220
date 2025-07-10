@@ -21,7 +21,7 @@
 <h3 align="center">Connect with me<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-sanabria-yaro-3204b01bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonathan-sanabria-yaro-3204b01bb" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@hermanosps443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan_sanabria" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61569380650626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan_sanabria" height="30" width="40" /></a>
   <a href="https://www.instagram.com/yaroslav_10.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaroslav_101220" height="30" width="40" /></a>
 </p>
 
